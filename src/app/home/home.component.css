@@ -1,0 +1,21 @@
+.container {
+  padding: 30px;
+}
+
+.products-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.products-wrap .product-card {
+  width: calc(25% - 55px);
+  margin: 10px;
+  padding: 20px;
+}
+
+.products-wrap .product-card:nth-child(4n-3) {
+  margin-left: 0px;
+}
+.products-wrap .product-card:nth-child(4n) {
+  margin-right: 0px;
+}
