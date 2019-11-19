@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "httpclient-angular8-example",
+      "public": "dist/httpclient-angular8-example",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

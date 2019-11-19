@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "http-angular8-example": {
+      "hosting": {
+        "httpclient-angular8-example": [
+          "http-angular8-example"
+        ]
+      }
+    }
+  }
+}
