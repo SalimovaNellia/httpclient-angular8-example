@@ -5,6 +5,6 @@ Sending GET requests with URL query strings and parameters and process HTTP resp
 ![Image alt](https://github.com/SalimovaNellia/httpclient-angular8-example/raw/master/src/assets/app-screenshot-2.png)
 
 
-HTTP GET requests with HttpClient, deploy to Firebase hosting, error handling & RxJS Observables
+HTTP GET requests with HttpClient, deploy to Firebase hosting, error handling & RxJS Observables, pagination
 
 Based the tutorial: https://www.techiediaries.com/angular-by-example-httpclient-get/
